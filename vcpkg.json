@@ -1,0 +1,14 @@
+{
+  "name": "bc-portable",
+  "version-string": "0.0.1",
+  "port-version": 1,
+  "homepage": "https://github.com/SamuelMarks/bc-portable",
+  "description": "bc made portable. Taken from the Heirloom-ng project (which was originally from SunOS).",
+  "dependencies": [
+    "c-str-span",
+    {
+      "name": "c89stringutils",
+      "platform": "windows"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+#ifndef C_CDD_CONFIG_H
+#define C_CDD_CONFIG_H
+
+#define C_CDD_VERSION_MAJOR @bc_portable_VERSION_MAJOR@
+#define C_CDD_VERSION_MINOR @bc_portable_VERSION_MINOR@
+#define C_CDD_VERSION_PATCH @bc_portable_VERSION_PATCH@
+#define C_CDD_VERSION       "@bc_portable_VERSION@"
+
+#endif /* !C_CDD_CONFIG_H */
